@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catch Game Study", "Assembly-CSharp.csproj", "{B1AAD64B-A3EF-622A-EB1E-344A94F4A0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AAD64B-A3EF-622A-EB1E-344A94F4A0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AAD64B-A3EF-622A-EB1E-344A94F4A0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AAD64B-A3EF-622A-EB1E-344A94F4A0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AAD64B-A3EF-622A-EB1E-344A94F4A0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
